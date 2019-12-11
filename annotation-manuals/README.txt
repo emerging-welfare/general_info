@@ -1,1 +1,1 @@
-We will place annotation manuals that we have were created EMW project here.
+Please find more information about the project on http://emw.ku.edu.tr/
