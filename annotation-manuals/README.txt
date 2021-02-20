@@ -1,11 +1,8 @@
 Please find more information about the project on http://emw.ku.edu.tr/
 
-The relevant corpus is on https://github.com/emerging-welfare/glocongold. The final database is on https://glocon.ku.edu.tr/.
+The relevant corpus is on https://github.com/emerging-welfare/glocongold. The final database is on https://glocon.ku.edu.tr/. Please contact ahurriyetoglu@ku.edu.tr if you would like to use the GLOCON Gold dataset that is created in the scope of [Emerging Welfare](https://emw.ku.edu.tr/) project. 
 
-# glocongold
-The repo is about how to get access to the gold standard corpus that is created and exploited to generate the Global Contention Dataset (GLOCON). Please contact ahurriyetoglu@ku.edu.tr if you would like to use the GLOCON Gold dataset that is created in the scope of [Emerging Welfare](https://emw.ku.edu.tr/) project. 
-
-A detailed description of the datasets created using this annotation manual are: 
+A detailed description of the corpora and datasets created using this annotation manual are: 
 
 Hürriyetoğlu A., Yörük E., Yüret D., Mutlu O., Yoltar Ç., Duruşan F., Gürel B. (2020). Cross-context News Corpus for Protest Events related Knowledge Base Construction. Automatic Knowledge Base Construction Conference. [URL](https://openreview.net/forum?id=7NZkNhLCjp) 
 
