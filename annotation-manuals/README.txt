@@ -4,7 +4,7 @@ The relevant corpus is on https://github.com/emerging-welfare/glocongold. The fi
 
 A detailed description of the corpora and datasets created using this annotation manual are: 
 
-Hürriyetoğlu A., Yörük E., Yüret D., Mutlu O., Yoltar Ç., Duruşan F., Gürel B. (2020). Cross-context News Corpus for Protest Events related Knowledge Base Construction. Automatic Knowledge Base Construction Conference. [URL](https://openreview.net/forum?id=7NZkNhLCjp) 
+Hürriyetoğlu A., Yörük E., Yüret D., Mutlu O., Yoltar Ç., Duruşan F., Gürel B. (2020). Cross-context News Corpus for Protest Events related Knowledge Base Construction. Automatic Knowledge Base Construction Conference. [URL](https://doi.org/doi:10.24432/C5D59R) 
 
 Hürriyetoğlu A., Zavarella V., Tanev H., Yörük E., Safaya A., and Mutlu O. (2020) Automated extraction of socio-political events from news (AESPEN): Workshop and shared task report. In Proceedings of the Workshop on Automated Extraction of Socio-political Events from News, pages 1{6, Marseille, France, May 2020. EuropeanLanguage Resources Association (ELRA). ISBN 979-10-95546-50-4. [URL](https://www.aclweb.org/anthology/2020.aespen-1.1.)
 
