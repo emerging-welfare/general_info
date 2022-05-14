@@ -1,6 +1,6 @@
 Please find more information about the project on http://emw.ku.edu.tr/
 
-The relevant corpus is on https://github.com/emerging-welfare/glocongold. The final database is on https://glocon.ku.edu.tr/. Please contact Ali Hürriyetoğlu (ahurriyetoglu@ku.edu.tr, ali.hurriyetoglu@gmail.com) if you would like to use the GLOCON Gold dataset that is created in the scope of [Emerging Welfare](https://emw.ku.edu.tr/) project. The dataset has new versions that were utilized in [CASE 2021](https://emw.ku.edu.tr/case-2021/) and [CASE 2022](https://emw.ku.edu.tr/case-2022/).
+The relevant corpus is on https://github.com/emerging-welfare/glocongold. The final database is on https://glocon.ku.edu.tr/. Please contact Ali Hürriyetoğlu (ahurriyetoglu@ku.edu.tr, ali.hurriyetoglu@gmail.com) if you would like to use the GLOCON Gold dataset that is created in the scope of [Emerging Welfare](https://emw.ku.edu.tr/) project. The dataset has new versions that were utilized in (CASE 2021)[https://emw.ku.edu.tr/case-2021/] and (CASE 2022)[https://emw.ku.edu.tr/case-2022/].
 
 A detailed description of the corpora and datasets created using this annotation manual are: 
 
