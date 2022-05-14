@@ -1,3 +1,7 @@
+
+Please cite as:
+Fırat Duruşan, Ali Hürriyetoğlu, Erdem Yörük, Osman Mutlu, Çağrı Yoltar, Burak Gürel, & Alvaro Comin. (2022). Global Contentious Politics Database (GLOCON) Annotation Manuals (1.01). Zenodo. https://doi.org/10.5281/zenodo.6540579
+
 Please see the Emerging Welfare project [website](http://emw.ku.edu.tr/) for more information.
 
 The relevant corpus is [GLOCON Gold](https://github.com/emerging-welfare/glocongold). The final database created automated methods based on the datasets created using GLOCON Gold is on the [GLOCON website](https://glocon.ku.edu.tr/). Please contact Ali Hürriyetoğlu (ahurriyetoglu@ku.edu.tr, ali.hurriyetoglu@gmail.com) if you would like to use the GLOCON Gold dataset. The dataset has new versions that were utilized in [CASE 2021](https://emw.ku.edu.tr/case-2021/) and [CASE 2022](https://emw.ku.edu.tr/case-2022/).
