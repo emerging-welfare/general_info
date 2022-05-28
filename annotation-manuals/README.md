@@ -1,5 +1,5 @@
 
-Please find the last version on and cite as:
+Please find the last version on and cite as: 
 Fırat Duruşan, Ali Hürriyetoğlu, Erdem Yörük, Osman Mutlu, Çağrı Yoltar, Burak Gürel, & Alvaro Comin. (2022). Global Contentious Politics Database (GLOCON) Annotation Manuals (1.01). Zenodo. https://doi.org/10.5281/zenodo.6540579
 
 Please see the Emerging Welfare project [website](http://emw.ku.edu.tr/) for more information.
